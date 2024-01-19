@@ -1,0 +1,1 @@
+## This is a guess number game made with vanilla js where user gets maximum 10 tries to guess a number between 1-100
